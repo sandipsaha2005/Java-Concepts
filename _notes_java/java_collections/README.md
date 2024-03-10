@@ -1,4 +1,4 @@
-# Collections Framework in Java by sandip
+# Collections Framework in Java 
 
 The java.util package contains all the classes and interfaces for Collection framework.
 
